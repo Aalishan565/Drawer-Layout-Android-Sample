@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">DrawerLayoutPoc</string>
+    <string name="lbl_main_activity">Main Activity</string>
+    <!-- Header  -->
+    <string name="hdr_about_app">About The App</string>
+    <string name="hdr_scheduler">Scheduler</string>
+    <string name="hdr_my_schedules">My Schedules</string>
+    <string name="hdr_purchase_ss">Purchase Series Sales</string>
+    <string name="hdr_forgot_password">Forgot Password ?</string>
+    <string name="hdr_commission_report">Commission Report</string>
+    <string name="hdr_change_password">Change Password</string>
+    <!-- Header  -->
+
+    <!-- Bottom Bar -->
+    <string name="lbl_day_view">Day</string>
+    <string name="lbl_week_view">Week</string>
+    <string name="lbl_list_view">List</string>
+    <!-- Bottom Bar -->
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <string-array name="nav_drawer_items">
+        <item>My Schedules</item>
+        <item>Scheduler</item>
+        <item>Purchase Series Sales</item>
+        <item>Commission Report</item>
+        <item>Change Password</item>
+        <item>About The App</item>
+        <item>Log Out</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/my_schedules</item>
+        <item>@drawable/scheduler</item>
+        <item>@drawable/purchase_series_sales</item>
+        <item>@drawable/commission_report</item>
+        <item>@drawable/change_password</item>
+        <item>@drawable/about_the_app</item>
+        <item>@drawable/log_out</item>
+    </array>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <!-- Keep them in order as the titles are in -->
+    <!-- Nav Drawer List Item Icons -->
+</resources>
